@@ -6,3 +6,6 @@ Can be played via the command line or the provided tkinter GUI.
 You can ether play for yourself or let the AI play and and watch it progess in the GUI. The command line tool lets you test out the AI for a given amount of rounds.
 
 You can play around with the AI by changing its Heuristic in the `evaluateCurrentState`-function and see if you can improve it.
+
+
+<img src="https://github.com/user-attachments/assets/0d1b7918-82c4-4644-9cc2-74d0f4cf19a8" width="400" />
